@@ -1,8 +1,10 @@
 # Plot.ly Homework - Belly Button Biodiversity
+
+https://thegreekgoddess.github.io/plotly-challenge/
+
 ![Bacteria by filterforge.com](Images/bacteria.jpg)
 
 In this assignment, you will build an interactive dashboard to explore the [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/), which catalogs the microbes that colonize human navels.
-
 The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
 ## Step 1: Plotly
@@ -41,9 +43,7 @@ The following task is advanced and therefore optional.
 ![Weekly Washing Frequency Gauge](Images/gauge.png)
 
 ## Deployment
-Deploy your app to a free static page hosting service, such as GitHub Pages or Heroku. Submit the links to your deployment and your GitHub repo.
-
-Here is a [guide](Heroku_Deployment_Guide.md) to deploying your app Heroku. 
+Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo.
 
 ## Hints
 * Use `console.log` inside of your JavaScript code to see what your data looks like at each step.
