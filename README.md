@@ -1,6 +1,6 @@
 # Plot.ly Homework - Belly Button Biodiversity
 
-https://thegreekgoddess.github.io/plotly-challenge/
+https://thegreekgoddess.github.io/Data_Analysis_and_Visualization_using_Plotly/
 
 ![Bacteria by filterforge.com](Images/bacteria.jpg)
 
